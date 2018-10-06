@@ -88,6 +88,11 @@
     margin-top: 0;
     margin-bottom: 1rem;
   }
+
+  p2 {
+    font-family: 'Charmonman', cursive;
+    font-size: 150%;
+}
   
   abbr[title],
   abbr[data-original-title] {
